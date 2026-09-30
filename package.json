@@ -1,0 +1,10 @@
+{
+  "name": "depot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A warehouse depot library with eight planted defects.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
